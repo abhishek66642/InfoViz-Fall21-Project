@@ -1,0 +1,14 @@
+{
+  "name": "ef7025c688f32269",
+  "main": "restaurantanalysis.js",
+  "version": "4805.0.0",
+  "homepage": "https://observablehq.com/d/ef7025c688f32269",
+  "author": {
+    "name": "Abhishek Mishra",
+    "url": "https://observablehq.com/@anm9189"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
