@@ -23,7 +23,7 @@ Then, import your notebook and the runtime as:
 
 ~~~js
 import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "ef7025c688f32269";
+import define from "restaurantanalysis";
 ~~~
 
 To log the value of the cell named “foo”:
